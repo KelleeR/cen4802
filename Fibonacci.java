@@ -1,6 +1,12 @@
 package assignment2;
 
 public class Fibonacci {
+	/**
+	 * This method returns the number in the fibonacci sequence
+	 * @param n The position on the number in the sequence
+	 * @return the number in the specified position
+	 * @author KMRoberts
+	 */
 	
 	static int fib(int n)
     {
